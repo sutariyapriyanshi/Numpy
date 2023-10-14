@@ -35,3 +35,19 @@
 14) Pareto Distribution<br>
 15) Zipf Distribution<br>
 
+<b> NumPy ufunc </b>
+
+1) ufunc Intro<br>
+2) ufunc Create Function<br>
+3) ufunc Simple Arithmetic<br>
+4) ufunc Rounding Decimals<br>
+5) ufunc Logs<br>
+6) ufunc Summations<br>
+7) ufunc Products<br>
+8) ufunc Differences<br>
+9) ufunc Finding LCM<br>
+10) ufunc Finding GCD<br>
+11) ufunc Trigonometric<br>
+12) ufunc Hyperbolic<br>
+13) ufunc Set Operations<br>
+
